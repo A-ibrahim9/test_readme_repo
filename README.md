@@ -7,6 +7,4 @@ Bye for now!!
 
 ## subheader
 
-i am tying to use git add then git status then I will commit and push.
-.
-.
+i am tying to use git add then git status then I will commit and push
